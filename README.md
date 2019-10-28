@@ -1,0 +1,2 @@
+# Soil_ECa_Sensor
+The repository was create to make avaliable the C++ code used in the graphical user interface of the published paper Queiroz, D. M., Lee, W. S., Schueller, J. K., &amp; Santos, E. D. (2017). Development and test of a low cost portable soil apparent electrical conductivity sensor using a Beaglebone Black. In 2017 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers. Paper #17-00062
